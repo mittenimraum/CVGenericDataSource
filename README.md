@@ -47,7 +47,7 @@ dataSource.bind(collectionView: collectionView)
 $ gem install cocoapods
 ```
 
-To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate `CVGenericDataSource` into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
